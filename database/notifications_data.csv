@@ -1,0 +1,13 @@
+notification_id,notification_type,message
+N24001,Billing notifications,Notification: System maintenance scheduled for [date and time]. Some features may be temporarily unavailable during this period. We apologize for any inconvenience.
+N24002,Consumption alerts,Alert: Severe weather warning issued for your area. Be prepared for potential power outages and take necessary precautions to ensure safety.
+N24003,Outage alerts,Reminder: Deadline approaching for submitting energy consumption reports as per regulatory requirements. Ensure compliance to avoid penalties.
+N24004,Metering alerts,Alert: Planned maintenance outage scheduled for [date and time]. Please be prepared for a temporary interruption in power supply during this period.
+N24005,Energy efficiency tips,Alert: Anomalies detected in meter readings. Please schedule a meter inspection to ensure accurate billing and prevent discrepancies.
+N24006,System maintenance notifications,Confirmation: Your payment for the electricity bill has been successfully processed. Thank you for your prompt payment.
+N24007,Billing discrepancies,Notification: Changes to electricity tariff rates effective from [date]. Please review the new rates and adjust your budget accordingly.
+N24008,Payment confirmations,Reminder: Your electricity bill for the current month is now available. Please review and make payment by the due date to avoid late fees.
+N24009,Tariff changes,Alert: Your electricity consumption for this month is significantly higher than usual. Consider implementing energy-saving measures to reduce usage and save on costs.
+N24010,Emergency alerts,Alert: Discrepancy found in your recent electricity bill. Please contact customer support to resolve the issue and ensure accurate billing.
+N24011,Compliance reminders,Assistance: Facing issues with accessing your account? Contact our technical support team for immediate assistance.
+N24012,Technical support,Tip: Use natural light during the day to reduce reliance on artificial lighting and lower your electricity consumption.
